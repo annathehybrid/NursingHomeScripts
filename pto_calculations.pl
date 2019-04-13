@@ -7,7 +7,7 @@ use warnings;
 # 	employee first name
 #	employee last name 
 # 	job position (this determines whether they are group 1, 2, or 3, partially affects PTO rate)
-#	hire date (this determines length of employement, partially affects PTO rate)
+#	hire date (this determines length of employment, partially affects PTO rate)
 # 	date they worked
 # 	number of hours they worked on that particular day
 # 	personal time off taken
